@@ -16,8 +16,18 @@ body{
   border: seagreen solid 5px;
   border-radius: 35%;
   align-self: center;
+  
 }
-
+.search-box{
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+}
+.int{
+  padding: 10px;
+  width: 80%;
+  margin: 15px 15px;
+}
 .article {
   display: flex;
   border: teal solid 5px;
